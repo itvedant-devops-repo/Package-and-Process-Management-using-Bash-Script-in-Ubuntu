@@ -22,12 +22,10 @@ cd package-process-management
 #### **The script should:**
 - Check if a package is installed.
 - Install it if not found.
-- Remove it if prompted.
 
 ```sh
 dpkg -l | grep package_name
 sudo apt-get install package_name -y
-sudo apt-get remove package_name -y
 ```
 
 ### **3. Implement Process Management Script (process_manager.sh)**
@@ -59,4 +57,4 @@ chmod +x package_manager.sh process_manager.sh
 - Learners should submit a PDF on Wingz Portal containing: 
   - ✅ Screenshots of script execution.
   - ✅ Explanation of each script’s logic.
-  - ✅ Challenges faced & solutions.
+  - ✅ What did you learned?
