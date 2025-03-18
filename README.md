@@ -56,7 +56,7 @@ chmod +x package_manager.sh process_manager.sh
 - Take screenshots of successful execution.
 
 ### **6. Submission Guidelines**
-- Learners should submit a PDF report containing: 
+- Learners should submit a PDF on Wingz Portal containing: 
   - ✅ Screenshots of script execution.
   - ✅ Explanation of each script’s logic.
   - ✅ Challenges faced & solutions.
